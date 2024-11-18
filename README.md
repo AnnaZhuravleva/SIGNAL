@@ -14,7 +14,7 @@ This repository follows the next structure:
 
 ## Dataset
 
-In this paper, we present SIGNAL, a dataset for \textbf{S}emantic and \textbf{I}nferred \textbf{G}rammar \textbf{N}eurological \textbf{A}nalysis of \textbf{L}anguage. Our dataset contains a group of sentences with a combination of a fully acceptable sentence and a grammatically or/and semantically incongruent sentences. The dataset has been approved by native speakers and later used for an EEG experiment. In total, our dataset contains recordings of 11 participants, each of whom read 600 sentences. In addition, we present a pilot study where we compare EEG analysis with simple probing experiments. 
+In this paper, we present SIGNAL, a dataset for **S**emantic and **I**nferred **G**rammar **N**eurological **A**nalysis of **L**anguage. Our dataset contains a group of sentences with a combination of a fully acceptable sentence and a grammatically or/and semantically incongruent sentences. The dataset has been approved by native speakers and later used for an EEG experiment. In total, our dataset contains recordings of 11 participants, each of whom read 600 sentences. In addition, we present a pilot study where we compare EEG analysis with simple probing experiments. 
 
 ## EEG data
 
