@@ -9,8 +9,7 @@ This repository follows the next structure:
 |   ├── z-scores_estimation             # Code for pairwise estimation of statistical difference between conditions in EEG data
 |   └── draw_plots                      # Code for visualisation
 ├── NN_processing                       # Source code for LLM data analysis
-|   ├── z-scores_estimation             # Code for pairwise estimation of statistical difference between conditions in LLM data
-|   └── draw_plots                      # Code for visualisation
+|   └── SIGNAL_PROBING_CHARTS           # Code for pairwise estimation of statistical difference between conditions in LLM data and visualisation
 ├── README.md                           # README file
 └── requirements.txt                    # A file with requirements 
 ```
