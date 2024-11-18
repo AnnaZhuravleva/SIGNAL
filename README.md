@@ -8,7 +8,7 @@ This repository follows the next structure:
 ├── EEG_processing                      # Source code for EEG data analysis
 |   ├── z-scores_estimation             # Code for pairwise conditions comparison in EEG data
 |   └── draw_plots                      # Code for visualisation
-├── NN_processing                       # Source code for LLM data analysis
+├── LLM_processing                      # Source code for LLM data analysis
 |   └── SIGNAL_PROBING_CHARTS           # Code for pairwise conditions comparison in LLM data and visualisation
 ├── README.md                           # README file
 └── requirements.txt                    # A file with requirements 
@@ -21,3 +21,9 @@ In this paper, we present SIGNAL, a dataset for **S**emantic and **I**nferred **
 ## EEG data
 
 The preprocessed and epoched EEG data is available at https://huggingface.co/datasets/zhuravlevahana/SIGNAL/tree/main.
+
+## EEG processing
+
+## LLM processing
+
+Experiments for the probing validation study (including supplementary tokenization effect study). Allows for model inference and subsequent diagnostic classification study on datasets compatible with the one used in the study. `SIGNAL_SPREADSHEET` should be replaced with the link to the spreadsheet containing the data of interest.
