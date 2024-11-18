@@ -5,6 +5,8 @@ Dataset for Semantic and Inferred Grammar Neurological Analysis of Language
 
 This repository follows the next structure:
 ```
+├── stimuli_generation                  # Linguistic stimuli preparation
+|   └── stimuli                         # Code for estimation and selection of stimuli parameters
 ├── EEG_processing                      # Source code for EEG data analysis
 |   ├── z-scores_estimation             # Code for pairwise conditions comparison in EEG data
 |   └── draw_plots                      # Code for visualisation
