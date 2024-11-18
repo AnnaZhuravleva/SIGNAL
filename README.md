@@ -5,11 +5,14 @@ Dataset for Semantic and Inferred Grammar Neurological Analysis of Language
 
 This repository follows the next structure:
 ```
-├── src                       # Source code
-|   ├── z-scores_estimation   # Code for pairwise estimation of statistical difference between conditions in EEG data
-|   └── draw_plots            # Code for visualisation
-├── README.md                 # README file
-└── requirements.txt          # A file with requirements 
+├── EEG_processing                      # Source code for EEG data analysis
+|   ├── z-scores_estimation             # Code for pairwise estimation of statistical difference between conditions in EEG data
+|   └── draw_plots                      # Code for visualisation
+├── NN_processing                       # Source code for LLM data analysis
+|   ├── z-scores_estimation             # Code for pairwise estimation of statistical difference between conditions in LLM data
+|   └── draw_plots                      # Code for visualisation
+├── README.md                           # README file
+└── requirements.txt                    # A file with requirements 
 ```
 
 ## Dataset
