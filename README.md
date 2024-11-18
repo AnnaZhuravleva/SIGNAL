@@ -10,6 +10,7 @@ This repository follows the next structure:
 |   └── draw_plots                      # Code for visualisation
 ├── LLM_processing                      # Source code for LLM data analysis
 |   └── SIGNAL_PROBING_CHARTS           # Code for pairwise conditions comparison in LLM data and visualisation
+├── STIMULI.xlsx                        # Dataset with linguistic stimuli and their main parameters
 ├── README.md                           # README file
 └── requirements.txt                    # A file with requirements 
 ```
