@@ -98,4 +98,4 @@ LLM probing data include experiments for the probing validation study (including
 
 `SIGNAL_SPREADSHEET` should be replaced with the link to the spreadsheet containing the data of interest.
 
-We applied Representational Similarity Analysis ( 30) to evaluate activation difference between 12 types of stimuli (three groups of sentences different by syntax structure each divided into four congruency conditions) detected by LLMs. As a result, we obtained layerwise Representational Dissimilarity Matrices (RDMs) contrasting each pair of condition presented
+We applied Representational Similarity Analysis ( 30) to evaluate activation difference between 12 types of stimuli (three groups of sentences different by syntax structure each divided into four congruency conditions) detected by LLMs. As a result, we obtained layer-wise Representational Dissimilarity Matrices (RDMs) contrasting each pair of condition presented
