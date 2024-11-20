@@ -94,12 +94,8 @@ The preprocessed and epoched EEG data is available at https://huggingface.co/dat
 
 ## LLM probing
 
-Experiments for the probing validation study (including supplementary tokenization effect study). Allows for model inference and subsequent diagnostic classification study on datasets compatible with the one used in the study. 
+LLM probing data include experiments for the probing validation study (including supplementary tokenization effect study) and the algorithm of layer-wise condition contrasting based on ruBERT LLM activations. LLM probing allows for model inference and subsequent diagnostic classification study on datasets compatible with the one used in the study. 
+
 `SIGNAL_SPREADSHEET` should be replaced with the link to the spreadsheet containing the data of interest.
-LLM probing data includes the algorithm of layer-wise condition contrasting based on ruBERT LLM activations. 
-We applied Representational Similarity Analysis ( 30) to eval-
-uate activation difference between 12 types of stimuli (three
-groups of sentences different by syntax structure each divided
-into four congruency conditions) detected by LLMs. As a
-result, we obtained layerwise Representational Dissimilarity
-Matrices (RDMs) contrasting each pair of condition presented
+
+We applied Representational Similarity Analysis ( 30) to evaluate activation difference between 12 types of stimuli (three groups of sentences different by syntax structure each divided into four congruency conditions) detected by LLMs. As a result, we obtained layerwise Representational Dissimilarity Matrices (RDMs) contrasting each pair of condition presented
